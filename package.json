@@ -10,7 +10,7 @@
     "test": "standard && node test.js"
   },
   "dependencies": {
-    "always-done": "^0.6.0",
+    "always-done": "^1.0.1",
     "co": "^4.6.0",
     "handle-arguments": "^3.0.2",
     "is-child-process": "^1.0.0",
@@ -20,9 +20,9 @@
   },
   "devDependencies": {
     "assertit": "^0.1.0",
-    "bluebird": "^2.9.34",
+    "bluebird": "^3.4.6",
     "mz": "^2.0.0",
-    "rx": "^3.1.2",
+    "rx": "^4.1.0",
     "through2": "^2.0.0"
   },
   "files": [
